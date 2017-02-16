@@ -1,3 +1,3 @@
 # myBlog
-随便写写 [myBlog] (https://medium.com/@qjj)
-
+随便写写 
+https://medium.com/@qjj
